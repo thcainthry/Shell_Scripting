@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-mydir=/Home/Downloads
+mydir=/home/florinda/Downloads
 if [ -d $mydir ] 
 then
 	echo "Directory $mydir exists."
