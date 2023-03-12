@@ -9,5 +9,5 @@ touch /home/florinda/Shell_Scripting/testfolder/testfolderi_dyte/testfile.txt #k
 
 echo "some random text" >> /home/florinda/Shell_Scripting/testfolder/testfolderi_dyte/testfile.txt  #insert some text into file testfile.txt
 
-cp /home/florinda/Shell_Scripting/testfolder/testfolderi_dyte/testfile.txt /home/florinda/Trajnimi_DevOps/file2.txt 
+cp /home/florinda/Shell_Scripting/testfolder/testfolderi_dyte/testfile.txt /home/florinda/Shell_Scripting/file2.txt 
 
