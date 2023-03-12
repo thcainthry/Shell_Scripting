@@ -1,1 +1,1 @@
-This is a repository which I created while learning Shell Scripting. All the information that I will push here are based on the book called "Mastering Linux Shell Scripting" by Mokhtar Ebrahim and Andrew Mallett.
+This is a repository which I created while learning Shell Scripting. All the information that I will push/commit here are based on the book called "Mastering Linux Shell Scripting" by Mokhtar Ebrahim and Andrew Mallett.
